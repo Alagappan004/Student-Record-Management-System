@@ -9,6 +9,6 @@ Student Record Management System is a console-based Java application developed t
 
 ## Features
 - Add student
--  View students
--   Update student details
--     elete student records
+- View students
+- Update student details
+- delete student records
